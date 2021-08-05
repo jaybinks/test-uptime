@@ -3,27 +3,27 @@ owner: jaybinks # Your GitHub organization or username, where this repository li
 repo: test-uptime # The name of this repository
 
 sites:
-  - name: NetSIP
+  - name: NetSIP Website
     url: https://www.netsip.com.au
-  - name: NetSIP Portal
+  - name: NetSIP Customer Portal
     url: https://portal.overthewire.com.au/
-  - name: 400har.nsw.sip.netsip.net.au TCP:5060
+  - name: SIP Cluster - 400har.nsw.sip.netsip.net.au TCP:5060
     check: "tcp-ping"
     url: 400har.nsw.sip.netsip.net.au	
     port: 5060
-  - name: 47bou.nsw.sip.netsip.net.au TCP:5060
+  - name: SIP Cluster - 47bou.nsw.sip.netsip.net.au TCP:5060
     check: "tcp-ping"
     url: 47bou.nsw.sip.netsip.net.au	
     port: 5060
-  - name: 24lit.qld.sip.netsip.net.au TCP:5060
+  - name: SIP Cluster - 24lit.qld.sip.netsip.net.au TCP:5060
     check: "tcp-ping"
     url: 24lit.qld..sip.netsip.net.au	
     port: 5060
-  - name: 100wic.qld.sip.netsip.net.au TCP:5060
+  - name: SIP Cluster - 100wic.qld.sip.netsip.net.au TCP:5060
     check: "tcp-ping"
     url: 100wic.qld..sip.netsip.net.au	
     port: 5060
-  - name: 826lor.vic.sip.netsip.net.au TCP:5060
+  - name: SIP Cluster - 826lor.vic.sip.netsip.net.au TCP:5060
     check: "tcp-ping"
     url: 826lor.vic.sip.netsip.net.au	
     port: 5060
