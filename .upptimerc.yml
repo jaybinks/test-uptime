@@ -6,7 +6,9 @@ sites:
   - name: NetSIP
     url: https://www.netsip.com.au
   - name: 400har.nsw.sip.netsip.net.au
-    url: https://400har.nsw.sip.netsip.net.au:5061
+    url: https://400har.nsw.sip.netsip.net.au:5061    
+  - name: 47bou.nsw.sip.netsip.net.au
+    url: https://47bou.nsw.sip.netsip.net.au:5061
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
