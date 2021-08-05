@@ -7,6 +7,26 @@ sites:
     url: https://www.netsip.com.au
   - name: NetSIP Portal
     url: https://portal.overthewire.com.au/
+  - name: 400har.nsw.sip.netsip.net.au TCP:5060
+    check: "tcp-ping"
+    url: 400har.nsw.sip.netsip.net.au	
+    port: 5060
+  - name: 47bou.nsw.sip.netsip.net.au TCP:5060
+    check: "tcp-ping"
+    url: 47bou.nsw.sip.netsip.net.au	
+    port: 5060
+  - name: 24lit.qld.sip.netsip.net.au TCP:5060
+    check: "tcp-ping"
+    url: 24lit.qld..sip.netsip.net.au	
+    port: 5060
+  - name: 100wic.qld.sip.netsip.net.au TCP:5060
+    check: "tcp-ping"
+    url: 100wic.qld..sip.netsip.net.au	
+    port: 5060
+  - name: 826lor.vic.sip.netsip.net.au TCP:5060
+    check: "tcp-ping"
+    url: 826lor.vic.sip.netsip.net.au	
+    port: 5060
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
