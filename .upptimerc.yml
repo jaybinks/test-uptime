@@ -7,13 +7,14 @@ sites:
     url: https://www.netsip.com.au
   - name: NetSIP Customer Portal
     url: https://portal.overthewire.com.au/
+    
   - name: SIP Cluster - 400har.nsw.sip.netsip.net.au TCP:5060
     check: "tcp-ping"
-    url: 400har.nsw.sip.netsip.net.au	
+    url: 103.26.173.36
     port: 5060
   - name: SIP Cluster - 47bou.nsw.sip.netsip.net.au TCP:5060
     check: "tcp-ping"
-    url: 47bou.nsw.sip.netsip.net.au	
+    url: 103.26.174.36
     port: 5060
   - name: SIP Cluster - 24lit.qld.sip.netsip.net.au TCP:5060
     check: "tcp-ping"
