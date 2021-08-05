@@ -29,6 +29,11 @@ sites:
     url: 826lor.vic.sip.netsip.net.au	
     port: 5060
     
+  - name: Test broken TCP Ping 5060
+    check: "tcp-ping"
+    url: 1.2.3.4
+    port: 5060
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
