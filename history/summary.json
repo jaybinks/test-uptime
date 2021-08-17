@@ -4,19 +4,19 @@
     "url": "https://www.netsip.com.au",
     "icon": "https://favicons.githubusercontent.com/www.netsip.com.au",
     "slug": "net-sip-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2236,
-    "timeDay": 2147,
-    "timeWeek": 2262,
-    "timeMonth": 2236,
-    "timeYear": 2236,
+    "status": "up",
+    "uptime": "97.81%",
+    "uptimeDay": "73.75%",
+    "uptimeWeek": "96.25%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "97.81%",
+    "time": 2157,
+    "timeDay": 1562,
+    "timeWeek": 2102,
+    "timeMonth": 2157,
+    "timeYear": 2157,
     "dailyMinutesDown": {
-      "2021-08-17": 1
+      "2021-08-17": 378
     }
   },
   {
