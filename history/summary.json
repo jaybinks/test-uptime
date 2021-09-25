@@ -4,10 +4,10 @@
     "url": "https://www.netsip.com.au",
     "icon": "https://favicons.githubusercontent.com/www.netsip.com.au",
     "slug": "net-sip-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.81%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.43%",
     "time": 2169,
@@ -16,7 +16,7 @@
     "timeMonth": 2199,
     "timeYear": 2169,
     "dailyMinutesDown": {
-      "2021-09-25": 20,
+      "2021-09-25": 21,
       "2021-09-15": 21,
       "2021-08-17": 378
     }
